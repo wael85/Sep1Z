@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ScheduleModel/ScheduleModel.iml" filepath="$PROJECT_DIR$/ScheduleModel/ScheduleModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScheduleViewModel/ScheduleViewModel.iml" filepath="$PROJECT_DIR$/ScheduleViewModel/ScheduleViewModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sep1Z.iml" filepath="$PROJECT_DIR$/Sep1Z.iml" />
+      <module fileurl="file://$PROJECT_DIR$/View/View.iml" filepath="$PROJECT_DIR$/View/View.iml" />
+    </modules>
+  </component>
+</project>
